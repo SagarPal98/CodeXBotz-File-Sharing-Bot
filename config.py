@@ -56,7 +56,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 
 # Auto delete time in seconds.
 AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", "10800"))
-AUTO_DELETE_MSG = os.environ.get("AUTO_DELETE_MSG", "<b>➥ 𝚃𝚑𝚒𝚜 𝙼𝚊𝚜𝚜𝚊𝚐𝚎 𝚆𝚒𝚕𝚕 𝙱𝚎 𝙳𝚎𝚕𝚎𝚝𝚎𝚍 𝙸𝚗 3 𝙷𝚘𝚞𝚛𝚜.\n\n➥ 𝙼𝚞𝚜𝚝 𝙹𝚘𝚒𝚗 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗als @DarkUpload @DarkUnlocked \n\n➥𝐅𝐨𝐫 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐕𝐢𝐝𝐞𝐨𝐬 @DarkPremiumVIP</b>")
+AUTO_DELETE_MSG = os.environ.get("AUTO_DELETE_MSG", "<b>➥ 𝚃𝚑𝚒𝚜 𝙼𝚊𝚜𝚜𝚊𝚐𝚎 𝚆𝚒𝚕𝚕 𝙱𝚎 𝙳𝚎𝚕𝚎𝚝𝚎𝚍 𝙸𝚗 3 𝙷𝚘𝚞𝚛𝚜.\n⚠️ Forward File to Your Saved Messages ASAP! 📌\n\n➥ 𝙼𝚞𝚜𝚝 𝙹𝚘𝚒𝚗 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗als @DarkUpload @DarkUnlocked \n\n➥𝐅𝐨𝐫 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐕𝐢𝐝𝐞𝐨𝐬 @DarkPremiumVIP</b>")
 AUTO_DEL_SUCCESS_MSG = os.environ.get("AUTO_DEL_SUCCESS_MSG", "<b>Your file has been successfully deleted.\n\n𝙹𝚘𝚒𝚗 𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗al @DarkUpload @DarkUnlocked ✅\n\n𝐅𝐨𝐫 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐕𝐢𝐝𝐞𝐨𝐬 @DarkPremiumVIP</b>")
 
 #Set true if you want Disable your Channel Posts Share button
